@@ -13,6 +13,15 @@ ele serve para valida pequenas falhas na propria escrita de software  , para nao
      4- Teste os seus testes: evite passa para frente sem olhar o seus testes
      5- Não Ignore os testes
 
+
+2- Testes de Integração
+	  Objetivo olha se a falha ao unir todas partes desenvolvida separadamente, normalmente os proprios dev, consegue olhar e corrigo quando juntas as parte
+	  
+    
      
-      
+
+
+
+
+
 	  
