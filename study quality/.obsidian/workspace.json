@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "4 Tipos de teste"
             }
+          },
+          {
+            "id": "aba23f6cbac152ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lean.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lean"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Unitarios",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Tipos de teste.md",
-                "linksCollapsed": false,
+                "file": "Lean.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 4 Tipos de teste"
+              "title": "Links de saída para Lean"
             }
           },
           {
@@ -143,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Tipos de teste.md",
+                "file": "Lean.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 4 Tipos de teste"
+              "title": "Sumário de Lean"
             }
           },
           {
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,8 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5913db2c3d0f1c53",
+  "active": "aba23f6cbac152ed",
   "lastOpenFiles": [
+    "Sem título.canvas",
+    "Lean.md",
+    "2025-04-06.md",
     "4 Tipos de teste.md"
   ]
 }
